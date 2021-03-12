@@ -3,7 +3,7 @@
 let data = new Array(1, 2, 3)
 data.push(7, 9, 4)
 console.log(data)
-
+    // comment
 class Student {
     constructor(firstName, lastName) {
         this.firstName = firstName
